@@ -12,6 +12,9 @@ nav a{
   margin: 5px;
   padding: 5px;
 }
+nav a:hover {
+  background-color:#212121;
+}
  body{
  background-color: #7C7B7F;
  color: #0BE8B6;
