@@ -27,6 +27,9 @@ nav a:hover {
 header img{
   border-radius: 50%
 }
+header h1 {
+  font-family: 'Bad Script', cursive;
+}
 
  h2{
  color: #B2DFDB;
