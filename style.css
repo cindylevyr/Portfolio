@@ -36,6 +36,15 @@ header h2 {
  h2{
  color: #B2DFDB;
   }
+  button {
+  color:#B2DFDB
+  background-color:#0BE8B6;
+  border-radius: 2px;
+  margin: 5px;
+  padding: 5px;
+  transition:1s all;
+    
+  }
 
 section{
   text-align: center;
