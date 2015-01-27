@@ -9,6 +9,8 @@ nav a{
   color:#B2DFDB;
   background-color:#009688;
   border-radius: 2px;
+  margin: 5px;
+  padding: 5px;
 }
  body{
  background-color: #7C7B7F;
