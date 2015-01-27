@@ -39,7 +39,7 @@ header h2 {
 
 section{
   text-align: center;
-  background-image url(http://41.media.tumblr.com/f27097121d1a17c3db062d5ae37b6f18/tumblr_nim7xaCTE01qfirfao1_1280.jpg)
+  background-image: url(http://41.media.tumblr.com/f27097121d1a17c3db062d5ae37b6f18/tumblr_nim7xaCTE01qfirfao1_1280.jpg)
   height: 400px;
   
 }
