@@ -21,7 +21,9 @@ nav a:hover {
  color: #0BE8B6;
  font-family: sans-serif;
  }
- 
+ header{
+   text-align: center;
+ }
 header img{
   border-radius: 50%
 }
