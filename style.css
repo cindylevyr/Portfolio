@@ -21,9 +21,12 @@ nav a:hover {
  color: #0BE8B6;
  font-family: sans-serif;
  }
-
+ 
+header img{
+  boarder-radius: 50%
+}
 
  h2{
- color: #B05EFF;
+ color: #B2DFDB;
  }
 
