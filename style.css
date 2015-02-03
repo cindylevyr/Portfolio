@@ -50,3 +50,7 @@ section{
   height: 500px;
   background-size: cover;
 }
+#new{
+  background-color: blue;
+  height: 250px;
+}
