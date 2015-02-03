@@ -24,9 +24,6 @@ nav a:hover {
  header{
    text-align: center;
  }
-header img{
-  border-radius: 20%
-}
 header h1 {
   font-family: 'Bad Script', cursive;
 }
