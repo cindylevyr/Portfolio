@@ -18,7 +18,7 @@ nav a:hover {
 }
  body{
  background-color: white;
- color: #0BE8B6;
+ color: #B7D6DB;
  font-family: sans-serif;
  }
  header{
@@ -43,6 +43,10 @@ header h2 {
   padding: 15px
     
   }
+   p {
+  background-color: #B7D6DB;
+  font-family: impact, Haettenschweiler, "Arial Narrow Bold", sans-serif ;
+ }
 
 section{
   text-align: center;
