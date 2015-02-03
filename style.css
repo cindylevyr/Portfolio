@@ -17,7 +17,7 @@ nav a:hover {
   background-color:#212121;
 }
  body{
- margin 0;
+ margin: 0;
  background-color: white;
  color: #008B8B;
  font-family: sans-serif;
@@ -45,12 +45,12 @@ header h2 {
     
   }
    p {
+     margin: 0;
   background-color: #B7D6DB;
   font-family: impact, Haettenschweiler, "Arial Narrow Bold", sans-serif ;
  }
 
 section{
-  margin: 0;
   text-align: center;
   background-image: url(http://41.media.tumblr.com/f27097121d1a17c3db062d5ae37b6f18/tumblr_nim7xaCTE01qfirfao1_1280.jpg);
   height: 500px;
