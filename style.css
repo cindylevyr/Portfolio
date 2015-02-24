@@ -55,6 +55,11 @@ section{
   color: DarkCyan ;
 }
 
+td{
+	padding:20px;
+	text-align: center;
+}
+
 .myButton {
 	-moz-box-shadow: 0px 11px 14px -7px #276873;
 	-webkit-box-shadow: 0px 11px 14px -7px #276873;
