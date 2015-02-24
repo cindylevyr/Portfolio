@@ -49,6 +49,7 @@ section{
   background-size: cover;
 }
 #new{
+  text-align: center;
   background-image: none;
   background-color: DarkCyan;
   height: 250px;
@@ -56,8 +57,7 @@ section{
 }
 
 td{
-	padding:40px;
-	text-align: center;
+	padding:20px;
 }
 
 .myButton {
