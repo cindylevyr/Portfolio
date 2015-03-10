@@ -6,20 +6,20 @@
 
 nav a{
   text-decoration: none;
-  color:#B2DFDB;
-  background-color:#009688;
+  color:#BFB6BB;
+  background-color:#36393B;
   border-radius: 5px;
   margin: 5px;
   padding: 5px;
   transition:1s all;
 }
 nav a:hover {
-  background-color:#212121;
+  background-color:#BFB6BB;
 }
  body{
  margin: 0;
  background-color: white;
- color: #008B8B;
+ color: #C49799;
  font-family: sans-serif;
  }
  header{
@@ -38,7 +38,7 @@ header h2 {
    p {
      padding: 0px;
      margin: 0;
-  background-color: #B7D6DB;
+  background-color: #AFD0D6;
   font-family: impact, Haettenschweiler, "Arial Narrow Bold", sans-serif ;
  }
 
