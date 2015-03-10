@@ -47,6 +47,7 @@ section{
   background-image: url(https://unsplash.imgix.net/photo-1422513391413-ddd4f2ce3340?q=75&fm=jpg&w=1080&fit=max&s=2167320d42459edfad96ffdc0415d764);
   height: 250px;
   background-size: cover;
+  background-color: AFD0D6;
 }
 #new{
   text-align: center;
@@ -64,14 +65,14 @@ td{
 	-moz-box-shadow: 0px 11px 14px -7px #276873;
 	-webkit-box-shadow: 0px 11px 14px -7px #276873;
 	box-shadow: 0px 11px 14px -7px #276873;
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #59b397), color-stop(1, #408c99));
-	background:-moz-linear-gradient(top, #59b397 5%, #408c99 100%);
-	background:-webkit-linear-gradient(top, #59b397 5%, #408c99 100%);
-	background:-o-linear-gradient(top, #59b397 5%, #408c99 100%);
-	background:-ms-linear-gradient(top, #59b397 5%, #408c99 100%);
-	background:linear-gradient(to bottom, #59b397 5%, #408c99 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#59b397', endColorstr='#408c99',GradientType=0);
-	background-color:#59b397;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #36393B), color-stop(1, #AFD0D6));
+	background:-moz-linear-gradient(top, #36393B 5%, #AFD0D6 100%);
+	background:-webkit-linear-gradient(top, #36393B 5%, #AFD0D6 100%);
+	background:-o-linear-gradient(top, #36393B 5%, #AFD0D6 100%);
+	background:-ms-linear-gradient(top, #36393B 5%, #AFD0D6 100%);
+	background:linear-gradient(to bottom, #36393B 5%, #AFD0D6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#36393B', endColorstr='#AFD0D6',GradientType=0);
+	background-color:#36393B;
 	border:2px solid #29668f;
 	display:inline-block;
 	cursor:pointer;
@@ -83,14 +84,14 @@ td{
 	text-shadow:0px 1px 0px #3d768a;
 }
 .myButton:hover {
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #59b397));
-	background:-moz-linear-gradient(top, #408c99 5%, #59b397 100%);
-	background:-webkit-linear-gradient(top, #408c99 5%, #59b397 100%);
-	background:-o-linear-gradient(top, #408c99 5%, #59b397 100%);
-	background:-ms-linear-gradient(top, #408c99 5%, #59b397 100%);
-	background:linear-gradient(to bottom, #408c99 5%, #59b397 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#59b397',GradientType=0);
-	background-color:#408c99;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #AFD0D6), color-stop(1, #36393B));
+	background:-moz-linear-gradient(top, #AFD0D6 5%, #36393B 100%);
+	background:-webkit-linear-gradient(top, #AFD0D6 5%, #36393B 100%);
+	background:-o-linear-gradient(top, #AFD0D6 5%, #36393B 100%);
+	background:-ms-linear-gradient(top, #AFD0D6 5%, #36393B 100%);
+	background:linear-gradient(to bottom, #AFD0D6 5%, #36393B 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#AFD0D6', endColorstr='#36393B',GradientType=0);
+	background-color:#AFD0D6;
 }
 .myButton:active {
 	position:relative;
