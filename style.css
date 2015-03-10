@@ -45,7 +45,7 @@ header h2 {
 section{
   text-align: center;
   background-image: url(https://unsplash.imgix.net/photo-1422513391413-ddd4f2ce3340?q=75&fm=jpg&w=1080&fit=max&s=2167320d42459edfad96ffdc0415d764);
-  height: 200px;
+  height: 0px;
   background-size: cover;
 }
 #new{
