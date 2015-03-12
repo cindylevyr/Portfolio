@@ -42,9 +42,10 @@ header h2 {
   }
 
    p {
+	   margin-left: 200px; 
+	   margin-right: 200px;
 	  text-align: center;
      padding: 0px;
-     margin: 0;
   background-color: #AFD0D6;
   font-family: 'Bad Script', cursive;
   font-size: 15px;
