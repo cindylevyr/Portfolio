@@ -4,18 +4,8 @@
     margin-top:50px;
   }
 
-nav a{
-  text-decoration: none;
-  color:#BFB6BB;
-  background-color:#36393B;
-  border-radius: 5px;
-  margin: 5px;
-  padding: 5px;
-  transition:1s all;
-}
-nav a:hover {
-  background-color:#BFB6BB;
-}
+
+
  body{
  margin: 0;
  background-color: white;
@@ -92,3 +82,83 @@ text-shadow:   none;
 	background-color:#AFD0D6;
 }
 
+.sl_examples{
+	text-transform:uppercase;
+}
+.sl_examples a{
+	display:inline-block;
+	position:relative;
+}
+.sl_examples a > span{
+	height:50px;
+	position:relative;
+	overflow:hidden;
+}
+.sl_examples a span span{
+	position:absolute;
+	display:block;
+	left:0px;
+	top:0px;
+	text-align:center;
+}
+.sl_examples a span span.sl-w1{
+	color:#fff;
+	text-shadow:0px 0px 1px #fff;
+	z-index:2;
+}
+.sl_examples a span span.sl-w2{
+	color:#e82760;
+	text-shadow:-1px 1px 2px #9f0633;
+	z-index:3;
+}
+
+
+.sl_menu{
+	overflow:hidden;
+	margin:20px 0px 0px 20px;
+	list-style:none;
+}
+.sl_menu li,
+.sl_examples{
+	float:left;
+	font-family: 'Bevan', arial, serif;
+	font-size:50px;
+	line-height:50px;
+	color:#f0f0f0;
+	margin-right:5px;
+	text-transform:uppercase;
+}
+.sl_menu a,
+.sl_examples a{
+	display:block;
+	position:relative;
+	float:left;
+	clear:both;
+	color:#fff;
+}
+.sl_menu a > span,
+.sl_examples a > span{
+	height:50px;
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+.sl_menu a span span,
+.sl_examples a span span{
+	position:absolute;
+	display:block;
+	left:0px;
+	top:0px;
+	text-align:center;
+}
+.sl_menu a span span.sl-w1,
+.sl_examples a span span.sl-w1{
+	color:#996F6F;
+	text-shadow:0px 0px 1px #fff;
+	z-index:2;
+}
+.sl_menu a span span.sl-w2{
+	color:#e82760;
+	text-shadow:-1px 1px 2px #9f0633;
+	z-index:3;
+}
